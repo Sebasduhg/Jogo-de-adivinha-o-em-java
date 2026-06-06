@@ -27,7 +27,7 @@ src/
 1. Clone o repositório:
 
 ```bash
-git clone https://github.com/seu-usuario/jogo-adivinhacao-java.git
+git clone https://github.com/Sebasduhg/jogo-adivinhacao-java.git
 ```
 
 2. Acesse a pasta:
