@@ -27,13 +27,13 @@ src/
 1. Clone o repositório:
 
 ```bash
-git clone https://github.com/Sebasduhg/jogo-adivinhacao-java.git
+git clone https://github.com/Sebasduhg/Jogo-de-adivinha-em-java.git
 ```
 
 2. Acesse a pasta:
 
 ```bash
-cd jogo-adivinhacao-java
+cd Jogo-de-adivinha-em-java
 ```
 
 3. Compile o projeto:
